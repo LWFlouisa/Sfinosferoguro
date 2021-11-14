@@ -3,6 +3,8 @@ title: "Object Color Action"
 author: SRWeaver
 layout: post
 ---
+![Red Serpent](https://raw.githubusercontent.com/LWFlouisa/Sfinosferoguro/main/images/redsnake.png)
+
 From Ruby to SenSpace, there was a transition period. She started viewing her AI projects like static website generators: there would be required folders marked with an underscore, that would deliver important files from a server located on her own computer. These would offer both plain text files and ruby modules that she needed to operate the script. Together they would form a project that was never always directly on her machine, in order to keep the overall file size that was on her computer to a minimum.
 
 Senspace was a higher level scripting language, that could be used to compile from slightly level script, or even to machine code itself. But generally her preference was to use machine code as little as possible, except for when she would have no other option but to do so. Instead she wanted a slightly different syntax from Ruby, which had gotten slightly old do how often she had worked with the language. Languages like C++ continued to be fairly complicated, which was the exact opposite of the direction she was working with.
